@@ -1,0 +1,8 @@
+variable;type;units;description
+B1;numeric;dBm;RSSI measurement from BLE beacon B1
+B2;numeric;dBm;RSSI measurement from BLE beacon B2
+B3;numeric;dBm;RSSI measurement from BLE beacon B3
+B4;numeric;dBm;RSSI measurement from BLE beacon B4
+B5;numeric;dBm;RSSI measurement from BLE beacon B5
+B6;numeric;dBm;RSSI measurement from BLE beacon B6
+sector;categorical;NA;Indoor sector label indicating the measurement location

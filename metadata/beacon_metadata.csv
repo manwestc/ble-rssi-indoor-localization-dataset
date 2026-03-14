@@ -1,0 +1,7 @@
+beacon_id;model;technology;floor;description
+B1;MOKO SMART H2;BLE;ground_floor;Beacon deployed near sector 1B area
+B2;MOKO SMART H2;BLE;ground_floor;Beacon deployed near sector 10B area
+B3;MOKO SMART H2;BLE;ground_floor;Beacon deployed near sector 19B area
+B4;MOKO SMART H2;BLE;first_floor;Beacon deployed near sector 1A area
+B5;MOKO SMART H2;BLE;first_floor;Beacon deployed near sector 4A area
+B6;MOKO SMART H2;BLE;first_floor;Beacon deployed near sector 7A area
